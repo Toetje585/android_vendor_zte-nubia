@@ -202,7 +202,6 @@ prebuilt_etc_xml {
 	name: "ReferenceFeature",
 	owner: "zte-nubia",
 	src: "proprietary/vendor/etc/lm/ReferenceFeature.xml",
-	filename_from_src: true,
 	sub_dir: "lm",
 	soc_specific: true,
 }
